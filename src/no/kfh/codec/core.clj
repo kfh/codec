@@ -1,4 +1,4 @@
-(ns no.kfh.codec.binary.core
+(ns no.kfh.codec.core
     (:use [clojure.math.numeric-tower :only [expt]]))
 
 (def base62-string "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")

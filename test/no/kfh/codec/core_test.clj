@@ -1,4 +1,4 @@
-(ns no.kfh.codec.binary.core-test
+(ns no.kfh.codec.core-test
   (:use clojure.test
         no.kfh.codec.binary.core))
 
