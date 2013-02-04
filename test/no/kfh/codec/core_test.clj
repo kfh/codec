@@ -1,6 +1,6 @@
 (ns no.kfh.codec.core-test
   (:use clojure.test
-        no.kfh.codec.binary.core))
+        no.kfh.codec.core))
 
 (deftest a-test
   (testing "FIXME, I fail."
