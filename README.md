@@ -1,7 +1,7 @@
 # codec
 
 A tiny Clojure library for encoding and decoding of numbers using base-62 as basis.
-Tough, the library is written in a generic way so it's pretty easy to extend with
+Though, the library is written in a generic way so it's pretty easy to extend with
 other bases if so desired.
 
 ## Usage
